@@ -1,44 +1,43 @@
-Sobre o projeto
+# 🐍 Projeto de POO em Python
+Vamos lá...
 
-Este é um projeto que fiz durante meus estudos de Python, com o objetivo de começar a entender e praticar Programação Orientada a Objetos (POO).
+# 📌 Sobre o projeto
 
- # O que é POO?
+Este é um projeto desenvolvido durante meus estudos de Python, com o objetivo de praticar e demonstrar conceitos de Programação Orientada a Objetos (POO).
 
-POO (Programação Orientada a Objetos) é uma forma de organizar o código utilizando classes e objetos.
+# 🧠 O que é POO?
 
-Neste projeto, estou começando a entender como criar classes, criar objetos a partir delas e utilizar métodos e atributos.
+POO (Programação Orientada a Objetos) é uma forma de organizar e estruturar o código utilizando classes e objetos.
 
-# Conceitos estudados
+Através da POO, é possível organizar melhor as informações e comportamentos de um programa, tornando o código mais estruturado e reutilizável.
+
+Neste projeto, são utilizados conceitos como criação de classes, objetos, métodos e atributos.
+
+# 📚 Conceitos utilizados
 Classes
 Objetos
 Atributos
 Métodos
 __init__
 self
-# Linguagem utilizada
-
+💻 Linguagem utilizada
 Python 🐍
+🎯 Objetivo
 
-# Objetivo
+O objetivo deste projeto é colocar em prática os conceitos fundamentais da Programação Orientada a Objetos e demonstrar como eles podem ser utilizados no desenvolvimento de aplicações em Python.
 
-O objetivo deste projeto é praticar os conceitos básicos de POO e entender como eles funcionam na prática.
-
-Este é um dos meus primeiros projetos utilizando POO em Python e faz parte da minha evolução nos estudos de programação.
-
-# Próximos projetos
-
-Conforme eu continuar estudando, pretendo criar projetos mais completos e aplicar conceitos mais avançados de POO.
-
-# Status
-
-# Em aprendizado
-
-Projeto criado para estudo e prática.
-
-# Por que?
-
-Criei este projeto com o objetivo de demonstrar, de forma prática, como funciona a Programação Orientada a Objetos (POO) e apresentar alguns de seus principais conceitos.
+# 📂 Por que este projeto está no GitHub?
 
 Vale destacar que este não é o meu primeiro projeto utilizando POO. Já adquiri bastante conhecimento sobre o assunto e desenvolvi diversos outros projetos anteriormente.
 
-Estou apenas republicando alguns deles no meu GitHub, inclusive projetos que já estavam salvos no meu computador, com o objetivo de organizar meus estudos, registrar minha evolução e construir um portfólio de forma mais profissional.
+Estou republicando alguns desses projetos no meu GitHub, incluindo projetos que estavam salvos no meu computador, com o objetivo de organizar meus estudos, registrar minha evolução e construir um portfólio de forma mais profissional.
+
+# 🚀 Próximos projetos
+
+Continuarei desenvolvendo novos projetos para aplicar meus conhecimentos e explorar conceitos mais avançados de programação e POO.
+
+# 📊 Status
+
+🟢 Concluído
+
+Projeto desenvolvido para estudo, prática e documentação da minha evolução em Python.
