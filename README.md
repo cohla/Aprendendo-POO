@@ -1,30 +1,36 @@
-# Aprendendo-POO
-Eu aprendi POO Básica nesse projeto, Foi Bem no começinho da minha carreira...
+Sobre o projeto
 
+Este é um projeto que fiz durante meus estudos de Python, com o objetivo de começar a entender e praticar Programação Orientada a Objetos (POO).
 
-# Irei explicar oque é POO...
+ # O que é POO?
 
-POO significa Programação Orientada a Objetos.
+POO (Programação Orientada a Objetos) é uma forma de organizar o código utilizando classes e objetos.
 
-Basicamente, é uma forma de organizar o código usando classes e objetos. A ideia é criar um modelo (classe) que tenha informações e ações, e depois criar objetos a partir desse modelo.
+Neste projeto, estou começando a entender como criar classes, criar objetos a partir delas e utilizar métodos e atributos.
 
-Por exemplo, podemos ter uma classe Pessoa. Ela pode ter informações como nome e idade, além de ações que uma pessoa pode realizar.
+# Conceitos estudados
+Classes
+Objetos
+Atributos
+Métodos
+__init__
+self
+# Linguagem utilizada
 
-class Pessoa:
-    def __init__(self, nome, idade):
-        self.nome = nome
-        self.idade = idade
+Python 🐍
 
-    def apresentar(self):
-        print(f"Olá! Meu nome é {self.nome} e tenho {self.idade} anos.")
+# Objetivo
 
+O objetivo deste projeto é praticar os conceitos básicos de POO e entender como eles funcionam na prática.
 
-pessoa = Pessoa("Cohla", 14)
+Este é um dos meus primeiros projetos utilizando POO em Python e faz parte da minha evolução nos estudos de programação.
 
-pessoa.apresentar()
+# Próximos projetos
 
-Nesse exemplo, Pessoa é a classe e pessoa é o objeto criado a partir dela.
+Conforme eu continuar estudando, pretendo criar projetos mais completos e aplicar conceitos mais avançados de POO.
 
-O __init__ é usado para definir as informações iniciais do objeto, enquanto os métodos são funções que o objeto pode executar.
+# Status
 
-Estou estudando POO em Python e criei este projeto para praticar os conceitos básicos e entender melhor como classes e objetos funcionam na prática.
+# Em aprendizado
+
+Projeto criado para estudo e prática.
