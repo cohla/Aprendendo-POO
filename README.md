@@ -34,3 +34,11 @@ Conforme eu continuar estudando, pretendo criar projetos mais completos e aplica
 # Em aprendizado
 
 Projeto criado para estudo e prática.
+
+# Por que?
+
+Criei este projeto com o objetivo de demonstrar, de forma prática, como funciona a Programação Orientada a Objetos (POO) e apresentar alguns de seus principais conceitos.
+
+Vale destacar que este não é o meu primeiro projeto utilizando POO. Já adquiri bastante conhecimento sobre o assunto e desenvolvi diversos outros projetos anteriormente.
+
+Estou apenas republicando alguns deles no meu GitHub, inclusive projetos que já estavam salvos no meu computador, com o objetivo de organizar meus estudos, registrar minha evolução e construir um portfólio de forma mais profissional.
